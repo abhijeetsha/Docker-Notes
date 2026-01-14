@@ -48,7 +48,8 @@
 * docker-compose stop	 >>>>> Stop services without removing them
 * docker-compose rm	 >>>>> Remove stopped services
 
-
+## Note: This Command is Used For Making Container to Docker images
+* docker commit <containerid> <imagename>;tag
 
 
 

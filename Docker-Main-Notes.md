@@ -1,6 +1,7 @@
 # Docker Main Notes:
 ## 🐳 1. What is Docker?
 ### Ans: Docker is a containerization platform that allows you to build, run, and manage applications in lightweight, portable containers.
+* Containers run consistently across different environments like development, testing, and production.
 * A container packages an application and all its dependencies (libraries, binaries, configuration files) so it runs consistently across environments.
 
 ## ✅ Key benefits:

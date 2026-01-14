@@ -67,6 +67,10 @@
 
 ## 💾 6. What is Docker Volumes and Storage?
 ### Ans: Docker volume is a persistent storage mechanism used to store data outside the container lifecycle. Even if a container is deleted, the data remains.
+* Use cases:
+  * Database storage
+  * Logs
+  * Shared data between containers
 * By default, container data is temporary — deleted when the container is removed.
 * Volumes allow data to survive container restarts or be shared between containers.
 
